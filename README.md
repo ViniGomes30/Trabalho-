@@ -8,6 +8,9 @@ Proposta de Tema e apresentação da Equipe.
 * Vinicius Gutierrez Gomes, Tia: 42306779, RA: 10425609
 
 # Descrição do projeto
+Nosso projeto visa atender a necessidade comum de muitas pessoas que desejam preparar uma refeição deliciosa, mas estão indecisas sobre qual receita seguir ou estão limitadas pelos ingredientes disponíveis em suas geladeiras. Para resolver esse problema, estamos desenvolvendo um aplicativo de receitas inovador que permite aos usuários encontrar receitas com base nos ingredientes que têm em casa. 
+O aplicativo terá uma interface simples e intuitiva, onde os usuários poderão inserir os ingredientes que possuem em sua despensa ou geladeira. Em seguida, o aplicativo realizará uma pesquisa em nosso banco de dados abrangente de receitas e retornará uma lista de receitas que podem ser preparadas com os ingredientes fornecidos pelo usuário.
+
 1 - Necessidade de descobrir uma receita com os ingredientes disponíveis.
 
 2 - É comum se ver numa situação em que você quer comer alguma coisa específica mas não sabe o que fazer, ou você quer fazer uma receita nova que nunca tinha feito antes, além de que muitas vezes você não tem muitos ingredientes, então vimos a necessidade de fazer esse aplicativo que acha a receita de acordo com os ingredientes que o usuário tiver.
