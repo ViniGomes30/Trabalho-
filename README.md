@@ -69,6 +69,13 @@ O aplicativo terá uma interface simples e intuitiva, onde os usuários poderão
 # Representação 
 ![Imagem do WhatsApp de 2024-03-14 à(s) 19 19 59_ecd7d27e](https://github.com/ViniGomes30/Trabalho-/assets/126883066/d912efe2-35f2-4bd1-bd47-6a8ef12e6663)
 
+| Ações do Sistema                                  | Ações do Ator                                                                                               |
+|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| 3.1.1. O sistema apresenta diversas opções que o usuário pode escolher, além de apresentar uma barra de pesquisa |                                                                                                             |
+|                                                    | 3.1.2. O usuário escolhe os ingredientes que ele possui e clica em “pesquisar receitas”                       |
+| 3.1.3. O sistema volta ao passo 4 do fluxo principal |                                                                                                             |
+
+
 
 
 
