@@ -35,7 +35,7 @@ O aplicativo terá uma interface simples e intuitiva, onde os usuários poderão
 # Especificação de caso de uso
 | Identificador | AHLV    |
 |---------------|---------|
-| Nome          | Procurador de Receita |
+| Nome          | Gerador de Receitas |
 | Atores        | Usuário |
 | Sumário       | O usuário irá inserir os ingredientes que ele tem disponível em sua casa e o sistema irá pesquisar entre as receitas disponíveis, qual o usuário poderá fazer com os ingredientes que ele possui. |
 | Pré-condição  | O usuário deve informar a quantidade mínima de ingredientes. |
