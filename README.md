@@ -31,3 +31,13 @@ O aplicativo terá uma interface simples e intuitiva, onde os usuários poderão
 
 # Canvas 
 ![image](https://github.com/ViniGomes30/Trabalho-/assets/126883066/444db95e-e439-4379-a998-38c3be4cf25d)
+
+# Casos de uso
+Identificador	AHLV
+Nome	Procurador de Receita
+Atores	Usuário
+Sumário	O usuário irá inserir os ingredientes que ele tem disponível em sua casa e o sistema irá pesquisar entre as receitas disponíveis, qual o usuário poderá fazer com os ingredientes que ele possui.
+Pré-condição	O usuário deve informar a quantidade mínima de ingredientes.
+Pós-condição	O sistema informa alguma(s) receita(s).
+Pontos de Inclusão	-
+Pontos de Extensão	-
