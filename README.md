@@ -43,3 +43,12 @@ O aplicativo terá uma interface simples e intuitiva, onde os usuários poderão
 | Pontos de Inclusão | - |
 | Pontos de Extensão | - |
 
+| Passo | Ações do Ator                              | Ações do Sistema                                                                                    |
+|-------|--------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 1     | O usuário clica no botão “Inserir ingredientes” | 
+| 2     | O sistema apresenta 2 opções para o usuário: “Pesquisar receitas que são necessários APENAS esses ingredientes” e “Pesquisar receitas com esses ingredientes, mas que possa ter mais outros”                                                                                                  |
+| 3     | O usuário escolhe a opção desejada        |                                                                                                     |
+| 4     |                                            | O sistema faz a pesquisa de acordo com a opção e os ingredientes desejados                         |
+| 5     |                                            | O sistema apresenta as opções de receitas disponíveis. Caso de uso é encerrado.                    |
+
+
