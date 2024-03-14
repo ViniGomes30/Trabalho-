@@ -29,4 +29,5 @@ O aplicativo terá uma interface simples e intuitiva, onde os usuários poderão
 
 6 - Os riscos não são muito prejudiciais para o usuário, mas pode acontecer: o programa não fazer a pesquisa do jeito certo e mostrar receitas incompatíveis, ou pode ter receitas que não são tão boas, dessa forma o usuário pode ficar insatisfeito com a aplicação e pode acabar desinstalando.
 
+# Canvas 
 ![image](https://github.com/ViniGomes30/Trabalho-/assets/126883066/444db95e-e439-4379-a998-38c3be4cf25d)
