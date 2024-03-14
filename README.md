@@ -65,7 +65,7 @@ O aplicativo terá uma interface simples e intuitiva, onde os usuários poderão
 # Fluxo Alternativo 2: A opção selecionada é “Pesquisar receitas com esses ingredientes, mas que possa ter mais outros”
 | Ações do Ator                              | Ações do Sistema                                                                                                                                   |
 |--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3.2.2. O usuário clica em "pesquisar receitas" | O sistema apresenta diversas opções que o usuário pode escolher, além de apresentar uma barra de pesquisa, e solicita ao usuário que insira pelo menos 1 ingrediente desejado. |
+| 3.2.2. O usuário clica em "pesquisar receitas" | 3.2.1. O sistema apresenta diversas opções que o usuário pode escolher, além de apresentar uma barra de pesquisa, e solicita ao usuário que insira pelo menos 1 ingrediente desejado. |
 |                                            | 3.2.4. O sistema volta ao passo 4 do fluxo principal                                                                                               |
 
 
