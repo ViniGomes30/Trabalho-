@@ -40,8 +40,6 @@ O aplicativo terá uma interface simples e intuitiva, onde os usuários poderão
 | Sumário       | O usuário irá inserir os ingredientes que ele tem disponível em sua casa e o sistema irá pesquisar entre as receitas disponíveis, qual o usuário poderá fazer com os ingredientes que ele possui. |
 | Pré-condição  | O usuário deve informar a quantidade mínima de ingredientes. |
 | Pós-condição  | O sistema informa alguma(s) receita(s). |
-| Pontos de Inclusão | - |
-| Pontos de Extensão | - |
 
 # Fluxo Principal
 | Ações do Ator                                      | Ações do Sistema                                                                                   |
