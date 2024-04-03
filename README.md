@@ -76,9 +76,9 @@ O aplicativo terá uma interface simples e intuitiva, onde os usuários poderão
 | - listarReceitas(): void |           
 
 | Receita |
+|--------------------------|
 |- nome: String |
 | - ingredientes: List<String> |
-|--------------------------|
 | + getNome(): String |
 | + getIngredientes(): List<String>|
 
