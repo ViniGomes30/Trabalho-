@@ -69,12 +69,18 @@ O aplicativo terá uma interface simples e intuitiva, onde os usuários poderão
 
 # Diagramas de Classe
 
-## Funcionalidades
-| Gerador de Receitas |
+| Gerador de Receitas |                                     
 |--------------------------|
 | + inserirIngredientes(): void |
 | + pesquisarReceitas(): void |
-| - listarReceitas(): void |
+| - listarReceitas(): void |           
+
+| Receita |
+|- nome: String |
+| - ingredientes: List<String> |
+|--------------------------|
+| + getNome(): String |
+| + getIngredientes(): List<String>|
 
 
 
