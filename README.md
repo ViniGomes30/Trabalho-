@@ -79,6 +79,7 @@ O aplicativo terá uma interface simples e intuitiva, onde os usuários poderão
 |--------------------------|
 |- nome: String |
 | - ingredientes: List<String> |
+|--------------------------|
 | + getNome(): String |
 | + getIngredientes(): List<String>|
 
