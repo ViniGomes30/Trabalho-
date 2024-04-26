@@ -83,5 +83,8 @@ O aplicativo terá uma interface simples e intuitiva, onde os usuários poderão
 | + getNome(): String      |
 | + getIngredientes(): List<String>|
 
+## Diagramas de Classe
+![Imagem do WhatsApp de 2024-04-25 à(s) 12 32 37_cbb5306d](https://github.com/ViniGomes30/Trabalho-/assets/126883066/f51c7c7e-429a-47b7-87cc-64481e34b570)
+
 ## Representação 
 ![Representação](https://github.com/ViniGomes30/Trabalho-/assets/126883066/d912efe2-35f2-4bd1-bd47-6a8ef12e6663)
