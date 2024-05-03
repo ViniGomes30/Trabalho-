@@ -86,5 +86,9 @@ O aplicativo terá uma interface simples e intuitiva, onde os usuários poderão
 ## Diagramas de Sequência
 ![Imagem do WhatsApp de 2024-04-25 à(s) 12 32 37_cbb5306d](https://github.com/ViniGomes30/Trabalho-/assets/126883066/f51c7c7e-429a-47b7-87cc-64481e34b570)
 
+## Diagramas de Atividade 
+![Imagem do WhatsApp de 2024-05-02 à(s) 22 28 31_cb1a0e91](https://github.com/ViniGomes30/Trabalho-/assets/126883066/499d8b81-9ec0-4dde-a47c-9b2278e44fb4)
+
+
 ## Representação 
 ![Representação](https://github.com/ViniGomes30/Trabalho-/assets/126883066/d912efe2-35f2-4bd1-bd47-6a8ef12e6663)
