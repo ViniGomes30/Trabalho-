@@ -89,6 +89,9 @@ O aplicativo terá uma interface simples e intuitiva, onde os usuários poderão
 ## Diagramas de Atividade 
 ![Imagem do WhatsApp de 2024-05-02 à(s) 22 28 31_cb1a0e91](https://github.com/ViniGomes30/Trabalho-/assets/126883066/499d8b81-9ec0-4dde-a47c-9b2278e44fb4)
 
+## Diagramas de Transição de Estados
+
+![image](https://github.com/ViniGomes30/Trabalho-/assets/126883066/4e1e2b65-48b3-48ce-a1ec-44f5d99eb16a)
 
 ## Representação 
 ![Representação](https://github.com/ViniGomes30/Trabalho-/assets/126883066/d912efe2-35f2-4bd1-bd47-6a8ef12e6663)
